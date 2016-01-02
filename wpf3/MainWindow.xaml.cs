@@ -28,6 +28,7 @@ namespace wpf3
         private void button_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show("ciao");
+            MessageBox.Show("ciaociao");
         }
     }
 }
