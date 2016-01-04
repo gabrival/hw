@@ -1,0 +1,56 @@
+[33mcommit 18715e38a29d0572910bb17d3881d0c6f9158b2a[m
+Merge: d7fad0d 9688275
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Mon Jan 4 15:51:28 2016 +0100
+
+    Merge branch 'master' of https://github.com/gabrival/hw
+
+[33mcommit d7fad0d8c54ad5c483a5c394c7703bd2a061fe32[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Mon Jan 4 15:51:00 2016 +0100
+
+    bo
+
+[33mcommit 968827573561e714dba46ee33d71ac119f5ba64e[m
+Author: gabrival <gabrival@libero.it>
+Date:   Mon Jan 4 14:48:54 2016 +0100
+
+    Update README.md
+
+[33mcommit bce2da5e5ffd9e1c8f90ffdc1015bf779623f1cf[m
+Author: gabrival <gabrival@libero.it>
+Date:   Mon Jan 4 14:47:59 2016 +0100
+
+    Initial commit
+
+[33mcommit 85964f9c1ae6e00e187c82ad61791abc04a96400[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Sat Jan 2 17:01:25 2016 +0100
+
+    Revert "commit ripristino"
+    
+    This reverts commit 5fcc30a1298af35788ce7f694166a2c09a9970ff.
+
+[33mcommit 5fcc30a1298af35788ce7f694166a2c09a9970ff[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Sat Jan 2 16:59:15 2016 +0100
+
+    commit ripristino
+
+[33mcommit 82496736144f78d2d204c9f2a4b979a15b6178ca[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Sat Jan 2 16:51:35 2016 +0100
+
+    commit ciaociao
+
+[33mcommit f6626b4374305c96ee63613b300fabee32b9b362[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Sat Jan 2 16:50:11 2016 +0100
+
+    commit ciao
+
+[33mcommit 16f1837eee232fca861bceb2bb4cb6b4b66165ef[m
+Author: gabriella valentini <gabriella.valentini.itaer@gmail.com>
+Date:   Sat Jan 2 16:46:46 2016 +0100
+
+    Commit iniziale per aggiungere i file con estensione gitIgnore e gitAttribute predefiniti.
